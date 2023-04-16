@@ -142,7 +142,7 @@
 
 
 
-	<!-- <script type="text/javascript">
+	<script type="text/javascript">
    
    document.addEventListener('DOMContentLoaded',function(){
     let video = document.querySelector('#scanner_camera')
@@ -215,7 +215,7 @@
 
 
 
-	</script> -->
+	</script> 
   
  </body>
 
